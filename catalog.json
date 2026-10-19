@@ -1,12 +1,14 @@
 {
   "schema": 1,
-  "packs": [{
-    "id": "inacsafio",
-    "name": "InacSafio",
-    "subtitle": "Supervivencia, crews y desafíos.",
-    "description": "Una aventura que cambia con cada jornada. Tu instancia mantiene sus propios mods, recursos y configuraciones.",
-    "minecraft": "1.20.1",
-    "loader": "Forge 47.4.10",
-    "manifestUrl": null
-  }]
+  "packs": [
+    {
+      "id": "inacsafio",
+      "name": "InacSafio",
+      "subtitle": "Un pack de The Unions Studios.",
+      "description": "Mods y recursos para esta aventura.",
+      "minecraft": "1.20.1",
+      "loader": "Forge 47.4.10",
+      "manifestUrl": "https://github.com/SamGsDev/the-unions-studios-packs/releases/download/inacsafio-1.0.0-prueba.1/manifest.json"
+    }
+  ]
 }
