@@ -11,7 +11,7 @@
   "manifestUrl": "https://github.com/SamGsDev/the-unions-studios-packs/releases/download/inacsafio-1.0.0-prueba.1/manifest.json",
   "status": "available",
   "server": { "name": "THU · InacSafio", "host": "TU-DOMINIO-AQUI", "port": 25565 },
-  "links": { "discord": "https://discord.gg/TU-INVITACION", "rules": "https://TU-SITIO/reglamento", "support": "https://TU-SITIO/soporte" },
+  "links": { "discord": "https://discord.gg/KbCJUakxn", "rules": "https://TU-SITIO/reglamento", "support": "https://TU-SITIO/soporte" },
   "news": [{ "title": "Título del anuncio", "body": "Contenido del anuncio.", "date": "2026-10-19" }],
   "schedule": { "timezone": "America/El_Salvador", "weekdays": [1,2,3,4,5], "start": "13:00", "end": "22:00" },
   "accent": "#C4B6EA"
