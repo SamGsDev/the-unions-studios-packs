@@ -42,12 +42,12 @@
       "accent": "#C4B6EA"
     },
     {
-      "id": "hardcore-doom",
-      "name": "Hardcore-Doom",
-      "subtitle": "Próximamente · Una nueva aventura de The Unions Studios.",
+      "id": "i-smp",
+      "name": "I-SMP",
+      "subtitle": "Próximamente · Una nueva aventura de NeonForge Studios.",
       "description": "Próximamente. Los detalles y la descarga se anunciarán más adelante.",
-      "minecraft": "Por confirmar",
-      "loader": "Por confirmar",
+      "minecraft": "1.21.1",
+      "loader": "NeoForge 21.1.264",
       "manifestUrl": null
     }
   ]
