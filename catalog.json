@@ -44,11 +44,11 @@
     {
       "id": "i-smp",
       "name": "I-SMP",
-      "subtitle": "Próximamente · Una nueva aventura de NeonForge Studios.",
+      "subtitle": "Una nueva aventura de NeonForge Studios.",
       "description": "Próximamente. Los detalles y la descarga se anunciarán más adelante.",
       "minecraft": "1.21.1",
       "loader": "NeoForge 21.1.264",
-      "manifestUrl": null
+      "manifestUrl": "https://github.com/SamGsDev/the-unions-studios-packs/releases/download/i-smp-1.0.0-prueba.1/manifest.json"
     }
   ]
 }
