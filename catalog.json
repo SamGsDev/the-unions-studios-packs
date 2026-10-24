@@ -48,7 +48,13 @@
       "description": "Próximamente. Los detalles y la descarga se anunciarán más adelante.",
       "minecraft": "1.21.1",
       "loader": "NeoForge 21.1.264",
-      "manifestUrl": "https://github.com/SamGsDev/the-unions-studios-packs/releases/download/i-smp-1.0.0-prueba.1/manifest.json"
+      "manifestUrl": "https://github.com/SamGsDev/the-unions-studios-packs/releases/download/i-smp-1.0.0-prueba.1/manifest.json",
+      "status": "available",
+      "server": {
+        "name": "THU · I-ISMP",
+        "host": "TU-DOMINIO-AQUI",
+        "port": 25565
+      },
     }
   ]
 }
